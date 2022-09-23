@@ -1,3 +1,4 @@
+cross web
 140.82.113.3 github.com
 185.199.109.153 assets-cdn.github.com
 151.101.1.194 github.global.ssl.fastly.net
